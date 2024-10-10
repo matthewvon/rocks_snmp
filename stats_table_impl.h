@@ -13,6 +13,7 @@
 #include "libmevent/meventmgr.h"
 
 #include "rocksdb/cache.h"
+#include "rocksdb/advanced_cache.h"
 #include "rocksdb/db.h"
 #include "rocksdb/statistics.h"
 #include "snmpagent/snmp_agent.h"
